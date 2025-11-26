@@ -4,7 +4,7 @@
 ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20OSX%20|%20Windows%20|%20Android-yellowgreen.svg?style=flat-square) 
 ![Docker](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square) 
 
-A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/yassirbili1).
+A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`Alex`](https://github.com/yassirbili1).
 
 
 ## Menu
