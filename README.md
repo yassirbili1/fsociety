@@ -7,7 +7,6 @@
 
 A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/fsociety-team/fsociety).
 
-## Fsociety Contains All Tools Used in Mr. Robot Series
 
 [![Mr. Robot](http://nikolaskama.me/content/images/2016/07/mr-robot-1.gif)](https://wikipedia.org/wiki/Mr._Robot)
 
